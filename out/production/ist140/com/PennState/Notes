@@ -1,0 +1,65 @@
+/*
+ *
+ *
+ *
+ * Will we discuss how do nextChar(); method because it doesn't exist
+ * = no?
+ *
+ * Does the program take longer to do a System.out.print method when its all together
+ * or when you have separate lines for println
+ *  = do what you want (slowness is minute)
+ *
+ * What is scientific notation and what does it have to do with floating point format
+ * =
+ *
+ * WHAT IN THE FUCK are String Streams and other BS
+ * = we will not go over that too much
+ *
+ * Will you take off points in Zybooks if we miss one of the documentation guidelines?
+ * = yes?
+ *
+ * Do we have to do the @author or @param for all zybooks things
+ * = yes
+ *
+ * Should i make mysellf the author on all things (upload to github)
+ * = no?
+ *
+ * During quizes, do you want us to edit things above the "put code here" statement
+ * = well yes, but also no
+ *
+ * Could you go over nested for and while statements?
+ *
+ *
+ * Could you go over difference btw integer, double, etc bc im getting errors
+ * = fixed, can put typecast in print statement
+ *
+ * Do you have to initialize "i" in a for loop
+ * = no???? depends
+ *
+ * use tax collector as reference for calling methods
+ *
+ *
+ * When making new methods, do we need the tag...
+ * = It is assumed that all parameters have previously been assigned
+ * relevant values prior to calling the method.?
+ *
+ * Can you go over the zybooks stuff i dont understand perfect size and overlay arrays
+ *
+ * what is the purpose of ecrypted.txt in encryptfilepersonalpronouns.java
+ *
+ * how do i differentiate between before decimal numbers and after in OceanAcidity lab
+ *
+ *
+ *
+ *
+ */
+
+ %c 	char 	                Prints a single Unicode character
+ %d 	int, long, short 	    Prints a decimal integer value.
+ %o 	int, long, short 	    Prints an octal integer value.
+ %h 	int, char, long, short 	Prints a hexadecimal integer value.
+ %f 	float, double 	        Prints a floating-point value.
+ %e 	float, double 	        Prints a floating-point value in scientific notation.
+ %s 	String 	                Prints the characters in a String variable or literal.
+ %% 		                    Prints the "%" character.
+ %n 		                    Prints the platform-specific new-line character.
